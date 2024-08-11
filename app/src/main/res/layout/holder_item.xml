@@ -17,7 +17,8 @@
             android:id="@+id/all_image"
             android:layout_width="215dp"
             android:layout_height="240dp"
-            android:scaleType="centerCrop"/>
+            android:scaleType="centerCrop"
+            android:src="@drawable/image123" />
 <!--            tools:src="@tools:sample/avatars"/>-->
 <!--            app:riv_corner_radius="8dp" -->
 
@@ -32,7 +33,7 @@
             android:layout_marginBottom="10dp"
             android:fontFamily="@font/nbold"
             android:singleLine="true"
-            android:text="My Coffe"
+            android:text="My Coffee"
             android:textColor="@color/black"
             android:textSize="16dp"
             android:textStyle="bold" />

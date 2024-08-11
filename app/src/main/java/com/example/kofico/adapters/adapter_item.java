@@ -13,6 +13,7 @@ import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.recyclerview.widget.RecyclerView;
 //import com.bumptech.glide.Glide;
 //import com.example.kofico.databinding.PopularItemBinding;
+import com.bumptech.glide.Glide;
 import com.example.kofico.R;
 import com.example.kofico.models.item;
 import java.util.List;
@@ -29,22 +30,19 @@ public class adapter_item extends RecyclerView.Adapter<adapter_item.ViewHolder> 
     @Override
     public ViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
         View inflate=LayoutInflater.from(parent.getContext()).inflate(R.layout.holder_item,parent,false);
-        return new  ViewHolder(inflate);
+        return new ViewHolder(inflate);
     }
 
     @Override
     public void onBindViewHolder(@NonNull ViewHolder holder, int position) {
-//        holder.getTextView().setText(localDataSet[position]);
-        item currentItem = list.get(position); // Get the current item
-        holder.name.setText(currentItem.getName()); // Assuming 'item' has a 'getName()' method
-        holder.rating.setText(currentItem.getRating()); // Assuming 'item' has a 'getRating()' method
-        holder.price.setText(currentItem.getPrice()); // Assuming 'item' has a 'getPrice()' method
-        // Set other views similarly
+        item currentItem = list.get(position);
+        holder.name.setText(currentItem.getName());
+        holder.rating.setText(currentItem.getRating());
+        holder.price.setText(currentItem.getPrice());
 
-        // Load the image using Glide
-//        Glide.with(holder.itemView.getContext())
-//                .load(currentItem.getImgUrl())
-//                .into(holder.image);
+        Glide.with(holder.itemView.getContext())
+                .load(currentItem.getImgUrl())
+                .into(holder.image);
     }
 
     @Override
