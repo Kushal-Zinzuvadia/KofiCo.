@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-debug-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-debug-31:\\drawable_ic_password_copper.xml.flat",
+        "source": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-main-33:\\drawable\\ic_password_copper.xml"
+    },
+    {
+        "merged": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-debug-31:\\mipmap-hdpi_kopi1.png.flat",
+        "source": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-main-33:\\mipmap-hdpi\\kopi1.png"
+    },
+    {
+        "merged": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-debug-31:\\drawable-xhdpi_image123.png.flat",
+        "source": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-main-33:\\drawable-xhdpi\\image123.png"
+    },
+    {
+        "merged": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-debug-31:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-main-33:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-debug-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-debug-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-debug-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-debug-31:\\font_nmedium.ttf.flat",
+        "source": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-main-33:\\font\\nmedium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-debug-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-debug-31:\\drawable-hdpi_image123.png.flat",
+        "source": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-main-33:\\drawable-hdpi\\image123.png"
+    },
+    {
+        "merged": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-debug-31:\\drawable_roundstyle.xml.flat",
+        "source": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-main-33:\\drawable\\roundstyle.xml"
+    },
+    {
+        "merged": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-debug-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-debug-31:\\drawable_button_with_radiusnew.xml.flat",
+        "source": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-main-33:\\drawable\\button_with_radiusnew.xml"
+    },
+    {
+        "merged": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-debug-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-debug-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-debug-31:\\mipmap-hdpi_illustration_top_drawer_login.png.flat",
+        "source": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-main-33:\\mipmap-hdpi\\illustration_top_drawer_login.png"
+    },
+    {
+        "merged": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-debug-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-debug-31:\\drawable_ic_baseline_account_balance_wallet_24.xml.flat",
+        "source": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-main-33:\\drawable\\ic_baseline_account_balance_wallet_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-debug-31:\\drawable_ic_account_copper.xml.flat",
+        "source": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-main-33:\\drawable\\ic_account_copper.xml"
+    },
+    {
+        "merged": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-debug-31:\\drawable_roundstylebig.xml.flat",
+        "source": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-main-33:\\drawable\\roundstylebig.xml"
+    },
+    {
+        "merged": "com.example.kofico.app-debug-31:/layout_holder_item.xml.flat",
+        "source": "com.example.kofico.app-main-33:/layout/holder_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-debug-31:\\drawable_bg.xml.flat",
+        "source": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-main-33:\\drawable\\bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-debug-31:\\drawable-xxhdpi_image123.png.flat",
+        "source": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-main-33:\\drawable-xxhdpi\\image123.png"
+    },
+    {
+        "merged": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-debug-31:\\layout_activity_homepage.xml.flat",
+        "source": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-main-33:\\layout\\activity_homepage.xml"
+    },
+    {
+        "merged": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-debug-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-debug-31:\\drawable-xxxhdpi_image123.png.flat",
+        "source": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-main-33:\\drawable-xxxhdpi\\image123.png"
+    },
+    {
+        "merged": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-debug-31:\\layout_holder_item.xml.flat",
+        "source": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-main-33:\\layout\\holder_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-debug-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-debug-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-debug-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-debug-31:\\drawable-mdpi_image123.png.flat",
+        "source": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-main-33:\\drawable-mdpi\\image123.png"
+    },
+    {
+        "merged": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-debug-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-debug-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-debug-31:\\font_nbold.ttf.flat",
+        "source": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-main-33:\\font\\nbold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-debug-31:\\drawable_ic_baseline_star_24.xml.flat",
+        "source": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-main-33:\\drawable\\ic_baseline_star_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-debug-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-debug-31:\\drawable_coffee_icon.jpg.flat",
+        "source": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-main-33:\\drawable\\coffee_icon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-debug-31:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\kusha\\.gradle\\daemon\\8.7\\com.example.kofico.app-main-33:\\layout\\activity_register.xml"
+    }
+]
